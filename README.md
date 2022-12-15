@@ -1,16 +1,2 @@
-# practice_2
+I worked on a Prescription Application project. It basically generates the prescription reports. Prescription is listed by translating speech into text using mic. The project is coded in flutter that uses dart language specifically. This app provides an ease and accelerate the help for doctors to prescribe medicines. Moreover, reports can be saved in the desired folder.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
